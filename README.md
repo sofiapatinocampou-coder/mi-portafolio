@@ -1,1 +1,29 @@
 # mi-portafolio
+Mi Portafolio
+
+Para comenzar el proyecto utilicé una plantilla de Bootstrap, la fui adaptando a mi gusto y añadiendo mi información.
+
+Paso a paso
+
+-Organicé las secciones principales (perfil, educación, intereses, logros y metas, habilidades y contacto).
+-Escribí una breve introducción sobre mí.
+-Mencioné mis estudios.
+-Añadí mis habilidades técnicas con íconos de los lenguajes de programación que conozco, además de mis habilidades blandas y los proyectos que he realizado en el colegio.
+-Hablé sobre mis intereses y añadí fotos de mis hobbies con efecto de zoom.
+-Expliqué mis logros y metas personales, usando íconos de Bootstrap Icons.
+-Personalicé los colores de la página, usando como principal el #6a5acd.
+-Agregué un formulario de contacto.
+-Incluí un footer con una frase motivacional, enlaces rápidos e información de contacto.
+
+Tecnologías utilizadas
+
+HTML
+CSS
+Bootstrap
+JavaScript
+PHP
+Font Awesome y Bootstrap Icons
+ChatGPT
+
+
+Sofía Patiño Ocampo 
